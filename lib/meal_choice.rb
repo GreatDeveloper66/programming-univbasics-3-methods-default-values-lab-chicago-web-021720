@@ -1,6 +1,6 @@
 # Your code here
 # For output purposes, use "puts" instead of "print" or "p"
-def meal(veg1,veg2,protien)
+def meal(veg1,veg2,protein)
   meal_string = "A plate of #{protein} with #{veg1} and #{veg2}."
   puts meal_string
   return meal_string
